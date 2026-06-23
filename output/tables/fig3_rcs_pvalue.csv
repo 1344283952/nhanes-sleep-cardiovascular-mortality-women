@@ -1,0 +1,2 @@
+"exposure","outcome","model","p_overall"
+"sleep_score","CV mortality","confounder-only (no BMI), design-based svycoxph + ns(3)",0.0358804065668654

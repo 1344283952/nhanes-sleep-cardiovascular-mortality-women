@@ -1,0 +1,7 @@
+"outcome","exposure","model","estimator","HR","CI_low","CI_high","P","n_covars","is_primary","E_value_point","E_value_CIbound","EPV","N_events_CV"
+"CV mortality","sleep_disorder (score>=2)","minimal","cause-specific Cox (survey-weighted)",1.75562461979833,1.27699533216285,2.41364845118241,0.000529269565752954,2,FALSE,NA,NA,NA,NA
+"CV mortality","sleep_disorder (score>=2)","confounder","cause-specific Cox (survey-weighted)",1.65494871304039,1.1634838509347,2.35401225431169,0.00507497827789544,7,TRUE,2.6960570310139,1.59961550588665,20.75,249
+"CV mortality","sleep_disorder (score>=2)","plus_bmi","cause-specific Cox (survey-weighted)",1.61975093840694,1.12861355491855,2.32461597775112,0.00888788882066442,8,FALSE,NA,NA,NA,NA
+"CV mortality","sleep_disorder (score>=2)","plus_clinical","cause-specific Cox (survey-weighted)",2.13078033754257,1.32409592137488,3.42892442576492,0.00183026273148271,13,FALSE,NA,NA,NA,NA
+"CV mortality","sleep_disorder (score>=2)","confounder","Fine-Gray subdistribution hazard",1.57996838709675,1.20585044494287,2.07015730242017,0.00091,7,TRUE,NA,NA,20.75,249
+"all-cause mortality","sleep_disorder (score>=2)","confounder","cause-specific Cox (survey-weighted)",1.33849562603543,1.0982461528871,1.63130144932104,0.00387189301297133,7,FALSE,NA,NA,NA,NA

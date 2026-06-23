@@ -1,0 +1,8 @@
+"demoted_file","source_file","framing","status"
+"supp_exploratory_gdm_interaction.csv","table4_dii_gdm_interaction.csv","GDM-history effect modification (DII x GDM)","EXPLORATORY - interaction null (all P>0.05 for DII:GDM Yes)"
+"supp_exploratory_gdm_stratified.csv","table4b_dii_stratified_by_gdm.csv","GDM-history stratified Cox (DII -> all-cause)","EXPLORATORY - GDM=Yes stratum null, no modification"
+"supp_exploratory_sleep_mediation_allcause.csv","table5_mediation_main.csv","Sleep mediation of DII -> all-cause (CMAverse)","EXPLORATORY - PM ~1%, mediation null (P=0.198)"
+"supp_exploratory_sleep_mediation_cvd.csv","table5b_mediation_cvd.csv","Sleep mediation of DII -> CV (CMAverse)","EXPLORATORY - mediation null"
+"supp_exploratory_sleep_mediation_gformula.csv","table_supp_S14_gformula.csv","Sleep mediation of DII -> all-cause (g-formula)","EXPLORATORY - PM ~1%, mediation null"
+"supp_exploratory_subgroup_interaction_pvalues.csv","table6b_subgroup_pinteraction.csv","SES/education x exposure subgroup interactions","EXPLORATORY - education x sleep->CV P_int=0.023 raw FAILS Bonferroni (36-test family, threshold 0.00139)"
+"supp_exploratory_subgroup_stratified.csv","table6_subgroup_strat.csv","Subgroup-stratified HRs (incl. education strata)","EXPLORATORY - hypothesis-generating only"

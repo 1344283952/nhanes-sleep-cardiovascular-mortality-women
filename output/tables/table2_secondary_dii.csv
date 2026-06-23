@@ -1,0 +1,7 @@
+"outcome","exposure","contrast","HR","CI_low","CI_high","P","model","estimator","DII_SD"
+"all-cause","DII per 1 SD","per SD",1.15948905050959,1.05547921163359,1.27374830639331,0.00202882857902265,"confounder-only","cause-specific Cox (survey-weighted)",1.91647692076267
+"all-cause","DII quartile","Q2",1.35485852568622,1.06809075233389,1.71861952798821,0.0123202664906206,"confounder-only","cause-specific Cox (survey-weighted)",1.91647692076267
+"all-cause","DII quartile","Q3",1.34843064446141,1.03341272681135,1.75947630191565,0.0276605897573801,"confounder-only","cause-specific Cox (survey-weighted)",1.91647692076267
+"all-cause","DII quartile","Q4",1.51789685118163,1.16160687190006,1.9834686816706,0.00223201177523041,"confounder-only","cause-specific Cox (survey-weighted)",1.91647692076267
+"all-cause","DII quartile","P-trend",NA,NA,NA,0.00626722457113349,"confounder-only","cause-specific Cox (survey-weighted)",1.91647692076267
+"CV (null)","DII per 1 SD","per SD",1.08120326211823,0.927574121998169,1.26027717493546,0.318049385311705,"confounder-only","cause-specific Cox (survey-weighted)",1.91647692076267

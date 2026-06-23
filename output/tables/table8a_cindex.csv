@@ -1,0 +1,4 @@
+"Model","C_index","outcome"
+"Base (M2 covars only)",0.844520653933043,"all_cause"
+"Extended (+DII +Sleep_disorder)",0.846122427969724,"all_cause"
+"ΔC-index",0.0016017740366816,"all_cause"

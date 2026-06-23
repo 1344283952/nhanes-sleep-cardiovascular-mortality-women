@@ -1,0 +1,8 @@
+"parameter","estimate","LCL","UCL","p_value","method","comparator_rb","n_total","n_event","contrast"
+"Rcde",1.11612241436134,0.0420823665177982,1.03480337850458,0,"g-formula (CMAverse), B = 500 bootstrap","regression-based: PM = 0.98% (95% CI -1.5% to 12.6%, P = 0.20)",10923,891,"DII a* = 0.08 vs a = 2.00 (1 SD shift)"
+"Rpnde",1.11612241436134,0.0420823665177982,1.03480337850458,0,"g-formula (CMAverse), B = 500 bootstrap","regression-based: PM = 0.98% (95% CI -1.5% to 12.6%, P = 0.20)",10923,891,"DII a* = 0.08 vs a = 2.00 (1 SD shift)"
+"Rtnde",1.11612241436134,0.0420823665177982,1.03480337850458,0,"g-formula (CMAverse), B = 500 bootstrap","regression-based: PM = 0.98% (95% CI -1.5% to 12.6%, P = 0.20)",10923,891,"DII a* = 0.08 vs a = 2.00 (1 SD shift)"
+"Rpnie",1.00281783487569,0.00312151338432635,0.998954190594374,0.176,"g-formula (CMAverse), B = 500 bootstrap","regression-based: PM = 0.98% (95% CI -1.5% to 12.6%, P = 0.20)",10923,891,"DII a* = 0.08 vs a = 2.00 (1 SD shift)"
+"Rtnie",1.00281783487569,0.00312151338432635,0.998954190594374,0.176,"g-formula (CMAverse), B = 500 bootstrap","regression-based: PM = 0.98% (95% CI -1.5% to 12.6%, P = 0.20)",10923,891,"DII a* = 0.08 vs a = 2.00 (1 SD shift)"
+"Rte",1.11926746302607,0.042083476750186,1.03814040846114,0,"g-formula (CMAverse), B = 500 bootstrap","regression-based: PM = 0.98% (95% CI -1.5% to 12.6%, P = 0.20)",10923,891,"DII a* = 0.08 vs a = 2.00 (1 SD shift)"
+"pm",0.0263697121154005,0.0541252236063704,-0.00968434578472764,0.176,"g-formula (CMAverse), B = 500 bootstrap","regression-based: PM = 0.98% (95% CI -1.5% to 12.6%, P = 0.20)",10923,891,"DII a* = 0.08 vs a = 2.00 (1 SD shift)"

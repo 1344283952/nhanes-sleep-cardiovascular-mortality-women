@@ -1,0 +1,4 @@
+"panel","exposure","outcome","model","p_overall"
+"sleep_allcause","sleep_score","all-cause","confounder-only design-based svycoxph + ns(3)",0.0503363469665085
+"DII_allcause","DII","all-cause","confounder-only design-based svycoxph + ns(3)",0.023968905950563
+"DII_cvd","DII","CV","confounder-only design-based svycoxph + ns(3)",0.457377825164303
